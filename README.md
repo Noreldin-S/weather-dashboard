@@ -2,6 +2,7 @@
 
 https://github.com/Noreldin-S/weather-dashboard
 
+https://noreldin-s.github.io/weather-dashboard/
 
 api key: 2eccd642d5b97f98197fd1db39c19b43.
 
