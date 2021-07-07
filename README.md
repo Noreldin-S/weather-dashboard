@@ -4,7 +4,7 @@ This application was designed for travelers who want to see the weather outlook 
 
 ## Live Link to Deployed App
 
-
+https://noreldin-s.github.io/weather-dashboard/
 
 ## Technologies Utilized
 
