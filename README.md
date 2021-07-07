@@ -1,19 +1,28 @@
-# Weather-Dashboard
+# WeatherDashboard
 
-https://github.com/Noreldin-S/weather-dashboard
+This application was designed for travelers who want to see the weather outlook for multiple cities so that they can plan their trips accordingly.  The Weather Dashboard allows the user to search for different cities and see both current and future weather conditions.  Each city they search is added to their search history. Should the user choose to leave the app and revisit it later on, local storage allows for the details for their last searched city to be shown automatically.  
 
-https://noreldin-s.github.io/weather-dashboard/
+## Live Link to Deployed App
 
-api key: 2eccd642d5b97f98197fd1db39c19b43.
 
-First I created the Html sheet.
 
-Then I created an account on openweathermap.org and created an aip key.
+## Technologies Utilized
 
-I created my script sheet.
+https://openweathermap.org/api/
 
-the first page will be html with a search bar to search for a city.
-the second page made in script sheet, after you search for a city it will show you the weather for this city for 5 days and the date, humidity, wind speed, and uv index. all made by using the api on openweathermap.org no css sheet been made.
 
-Also on the left below the search bar all cities will be stored, in case you want to go back to an old city.
+## Visualization of App Interface
 
+![NightIn visualization](./WeatherDashboard.png)
+
+---
+
+## Contribute
+
+Please submit [bugs and feature requests](https://github.com/Noreldin-S/weather-dashboard/issues)
+
+
+
+### Author
+
+[Noreldin Saad](https://github.com/Noreldin-S/)
